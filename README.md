@@ -212,5 +212,5 @@ ViewBag.Status = EnumSelectedListMethods.ToSelectListDisplayName<enumStatus();
 ```
 
 
-## join me on Instagram
+## join me on Linkedin
 [mawazejaz](https://www.linkedin.com/in/mawaz/)
