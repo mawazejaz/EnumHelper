@@ -1,10 +1,11 @@
 # Enum as Dropdown list
-
-If you have a list of enum and you want to show that in form of the dropdown or selected list this file really help you
+In Most of the cases we have scenario in the development to papulate values of an enum into a SelectList or dropdown. 
+If you have a list of enum and you want to papulate that in form of the dropdown or selected list this file really help you.
+This file have **Generic** method to convert enum into Selected list.
 
 ## Installation
-
-Copy file in the folder Helper -> EnumHelper this file have the readymade code to start
+1-Copy **Compelete file of code** from blow and past this into your project.
+2-Copy file in the folder Helper -> EnumHelper this file have the readymade code to start.
 
 
 
