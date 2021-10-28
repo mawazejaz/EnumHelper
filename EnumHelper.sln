@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumHelper", "EnumHelper\EnumHelper.csproj", "{55EC971D-8352-4F0F-AF71-25DC93397E4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EC971D-8352-4F0F-AF71-25DC93397E4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EC971D-8352-4F0F-AF71-25DC93397E4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EC971D-8352-4F0F-AF71-25DC93397E4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EC971D-8352-4F0F-AF71-25DC93397E4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06518CA-629A-4D0A-87EF-D82325EFEFAD}
+	EndGlobalSection
+EndGlobal
